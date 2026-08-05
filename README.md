@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Aditya Gupta Banner" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
 
 <h3 align="center">

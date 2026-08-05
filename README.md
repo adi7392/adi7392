@@ -40,6 +40,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="https://www.instagram.com/hashtag_adiii_4.0?igsh=MXd6Z3FidHljM3Q5ZA==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---

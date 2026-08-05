@@ -1,139 +1,111 @@
-# Hi 👋, I'm Aditya Gupta
+<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
 
-```{=html}
 <h3 align="center">
-```
-Full Stack MERN Developer \| B.Tech CSE Graduate \| Open to Work 🚀
-```{=html}
+💻 Full Stack MERN Developer | 🚀 Open to Work | 🌱 Lifelong Learner
 </h3>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express;MongoDB+%7C+JavaScript;Always+Learning+New+Technologies" />`{=html}
-```{=html}
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 👨‍💻 About Me
+<img align="right" alt="coding" width="380"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
--   💻 MERN Stack Developer
--   🎓 B.Tech CSE Graduate
--   🌱 Currently learning **TypeScript & Next.js**
--   🚀 Passionate about building scalable web applications
--   💼 Open to **Software Developer** opportunities
+# 👨‍💻 About Me
 
-### 📫 Connect
+- 🎓 B.Tech CSE Graduate
+- 💻 Full Stack MERN Developer
+- 🌱 Currently learning **TypeScript & Next.js**
+- ⚡ Passionate about Backend Development
+- 🚀 Love building real-world web applications
+- 💼 Looking for Software Developer opportunities
 
--   GitHub: https://github.com/adi7392
--   LinkedIn: https://www.linkedin.com/in/adiiigupta
--   Email: adiiigupta7392@gmail.com
+---
 
-------------------------------------------------------------------------
+# 🌐 Connect With Me
 
-## 🛠 Tech Stack
+<p align="left">
 
-```{=html}
+<a href="https://www.linkedin.com/in/adiiigupta">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:adiiigupta7392@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/adi7392">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,java,git,github,vscode,postman,firebase"/>`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=javascript,java,c,cpp"/>
 </p>
-```
 
-------------------------------------------------------------------------
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+---
 
 # 🚀 Featured Projects
 
-### 🍽️ Cloud Kitchen
+## 🍽️ Cloud Kitchen
 
--   MERN Stack Food Ordering Application
--   JWT Authentication
--   Cloudinary Image Upload
--   Admin Dashboard
+✔ MERN Stack Application
 
-### 💰 Chitease
+✔ JWT Authentication
 
--   Chit Fund Management System
--   Secure Authentication
--   Dashboard & User Management
+✔ Cloudinary Image Upload
 
-### 📈 Flowchart Converter
+✔ Admin Dashboard
 
--   Convert Mermaid diagrams into flowcharts
--   Simple and responsive UI
+✔ Role Based Access
 
-------------------------------------------------------------------------
+---
 
-## 📊 GitHub Stats
+## 💰 Chitease
 
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=adi7392&show_icons=true&theme=tokyonight"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi7392&layout=compact&theme=tokyonight"/>`{=html}
-```{=html}
-</p>
-```
+✔ Chit Fund Management System
 
-------------------------------------------------------------------------
+✔ User Authentication
 
-## 🔥 GitHub Streak
+✔ Dashboard
 
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=adi7392&theme=tokyonight"/>`{=html}
-```{=html}
-</p>
-```
+✔ Modern UI
 
-------------------------------------------------------------------------
+---
 
-## 🏆 GitHub Trophies
+## 📈 Flowchart Converter
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=adi7392&theme=tokyonight&margin-w=10"/>`{=html}
-```{=html}
-</p>
-```
+✔ Mermaid to Flowchart
 
-------------------------------------------------------------------------
+✔ Responsive UI
 
-## 📈 Contribution Graph
+✔ Fast & Easy to Use
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=adi7392&theme=tokyo-night"/>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## 🐍 Snake Contribution
-
-> Enable using GitHub Actions later.
-
-``` yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-```
-
-------------------------------------------------------------------------
-
-### 💡 Quote
-
-> "Code. Learn. Build. Repeat."
-
-------------------------------------------------------------------------
-
-⭐ If you like my work, consider starring my repositories!
+---

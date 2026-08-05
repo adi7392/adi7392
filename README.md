@@ -109,3 +109,70 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 ✔ Fast & Easy to Use
 
 ---
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adi7392&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi7392&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adi7392&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adi7392&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adi7392&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 📜 Certifications
+
+🏅 GeeksforGeeks MERN Stack Developer
+
+🏅 IBM SkillsBuild Front-End & Web Development
+
+🏅 CSRBOX Internship
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Master Data Structures & Algorithms
+- ⚛️ Learn Next.js & TypeScript
+- 💼 Secure a Software Developer Role
+- 🌍 Build Scalable Full-Stack Applications
+
+---
+
+# 💡 Quote
+
+> **"First, solve the problem. Then, write the code." – John Johnson**
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adi7392&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
